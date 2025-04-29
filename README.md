@@ -31,3 +31,4 @@ La guía se organiza en varios documentos Markdown que encontrarás en la carpet
 
 > **Nota:** Cada documento incluye enlaces relativos para facilitar la navegación y referencias cruzadas.
 
+![ASM](https://github.com/user-attachments/assets/cd4f5ce2-9beb-4d5d-bc49-9722f4ec6afa)
